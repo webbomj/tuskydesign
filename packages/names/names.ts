@@ -93,7 +93,7 @@ export const NAMES = [
   "Cotton",
   "Oakley",
   "Ruby",
-  "Jackpot",
+  "Jackposadt",
   "Dudley",
   "Fancy",
   "Howi2e",
