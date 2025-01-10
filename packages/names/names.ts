@@ -96,7 +96,7 @@ export const NAMES = [
   "Jackpot",
   "Dudley",
   "Fancy",
-  "Howi2e",
+  "Howi2esdf",
 ];
 
 export function getRandomName(): string {
